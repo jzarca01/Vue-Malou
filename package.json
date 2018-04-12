@@ -1,6 +1,6 @@
 {
   "name": "vue-malou",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "La congolexicomatisation des lois du marché propres aux congolais dans un plugin Vue.js",
   "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "dist/my-awesome-plugin.common.js",
