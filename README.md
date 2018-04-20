@@ -4,6 +4,8 @@
 
 > La congolexicomatisation des lois du marché propres aux congolais dans un plugin Vue.js
 
+![vue-malou](https://github.com/jzarca01/Vue-Malou/blob/master/img/vue-malou.jpg)
+
 ## Installation
 
 ```bash
