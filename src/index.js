@@ -1,7 +1,7 @@
-import MalouComponent from './MalouComponent.jsx'
+import VueMalou from './VueMalou.jsx'
 
 function plugin (Vue) {
-  Vue.component('vue-malou', MalouComponent)
+  Vue.component('vue-malou', VueMalou)
 }
 
 // Install by default if using the script tag
@@ -13,6 +13,6 @@ export default plugin
 const version = '__VERSION__'
 // Export all components too
 export {
-  MalouComponent,
+  VueMalou,
   version
 }

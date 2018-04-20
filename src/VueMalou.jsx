@@ -18,9 +18,6 @@ export default {
     }
   },
   methods: {
-    onClick () {
-      console.log('hello')
-    },
     createParagraph () {
       const paragraph = this.malou.getParagraph(this.sentences)
       return <p>{paragraph}</p>
@@ -34,7 +31,6 @@ export default {
   render (h) {
     return (
       <div>
-        Test {this.sentences}
         {this.arrayParagraphs.map(element => this.createParagraph())}
       </div>
     )
